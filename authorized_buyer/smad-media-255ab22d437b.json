@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smad-media",
+  "private_key_id": "255ab22d437bc2104864a3713fc66c951148a9c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4vUXKiPA09kE8\nHc8pwdXq5ojIqwB2Lbxrb2fm6wYmOCNuCCe8EgfdwQ4SrtKx+zu1l4hnnkRqRKLA\n9NG6D1zcEt1pvrZNkzMrzDSgGDrQJdD08uNkPW1xsG4+kujLvz9GNGeUUN5hQPgD\nYpR+Koc8aQwShryOdTbgssdCtg5iXJQZk/EFgNsqn9stGC1amYqYM9YvWBz83RcL\n3h8QCx1YDMciezpqvtbW2fcB0/jRTcavZ0OmhmpNc1UBeOnrGwmhITmVWKQXtNtA\nn/TEYkanAv7/eB6YPauXXctpI9ZkwtMh5OKmZ9MPAVhvSvYRnw2vBGY69eR52cND\nrdKX5AuJAgMBAAECggEABCeWjJjijRBeNHXHqUzfjJg5aojk+mNqLcDcRXZS5bRk\nwJZcnWdK577uG/e0S5YmuD1jjxABQiIPxnbjChQLHrRqaBTGyQ0WzST7KIAO/4wg\nLEgTmtciUViaTBw18dIX4FJwo2Zjr+x7/2h9xi4a6z4CDF8dGbeTX7+JiWuqfGYG\ngRlJpJqixONqrzkzBChHnLotgIXfncupowSmMiV5TpQc9pCXGUBH4mmIikgYQWIR\nJGjoQnKdc6HXt0E1gkfs7C7FtQk0H+bEIppm8ZBbpUfTN2KXGfGJPjKCeOmlUxDQ\nOXQy9XQ7o8Y/NXUQ6VKIwWeo1QZomovBkHjgwRP1cQKBgQD1G8HLv/Eo81YrvX0g\n276csJDGbrLO10mgupZAtDTQkdTs/ePcmDOEJtRdvAutteNmYk1ncNOjXh5Nnj11\nIbTmnILA7Bgj9qrn88DKmGcNX23aur0DQ5rucY0t0z9rwLKhS/pe0Dnto1Njnqrs\na3dpb8IqC9fyrbytf4bY5C8IsQKBgQDA8si+9t+5l/rs1VgXqI4ROmp2m7xye/Bx\nRU+8ANYn8UkxPXwtUymIXkVO9vJBVz1itxZ8ueZLT2tf6Pzsvo38RBdbtaoqAMtq\nPJp2JWpfL3zphi5gFcHRqv4ddTe5yTAJ1w7wtv1xC7wHO/ZdFXqhizLSe3TEn6ax\n5a9OTCvmWQKBgCPBIMvv++XVWUSYJ6CbbXq95uCLVVoG3Z6smS5nGy0xmLXZc1vC\neAFXCLODstBsL/fHbzMfqj+ygwkfhCeJ+zGIsyohRoQ4f0XGsODcymuQ+B1oEBph\nyj/uIIIGxsGZInWU97jM9yZLJObrRlOmeYzP2Kr5f07POS61453P62yBAoGAGWMY\ndL/o2fOcSXMcvygnYS7teSOunOWf0leLUTJO+zxtI/RyFUie61l0BxrI7z36TrXG\nWKzhF0Gg4CK4vLGp3upapG93r0Uhfp3wuODdaR7HcbZ8/Zl/QgYcn2Wf6msFThYk\n2hlJqYkguVbzaHX+B6lYC4fA6moTNc8BzOyKzikCgYEArP3a5NinMKwjNUvig3dv\n6TVmZojxe/3QBWteBjCOYDIo40XCBTEJOVf+swEx0E2zNBcrrJF+QwMNoA9nGRjC\nHpjev+551E/TvgAtHxpt8E3/bB8kaRCu/Rc7ZjLmC1cSKc4ApMnkLO+H2913xVwP\n3IPAvsSjgEiwPpMuuhs/nLQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "guillo-test@smad-media.iam.gserviceaccount.com",
+  "client_id": "104684356389772460214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/guillo-test%40smad-media.iam.gserviceaccount.com"
+}
