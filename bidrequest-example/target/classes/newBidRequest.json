@@ -1,0 +1,163 @@
+{
+  "id": "J42dA2fb0vE6D8t3964188",
+  "imp": [
+    {
+      "id": "1",
+      "banner": {
+        "w": 160,
+        "h": 600,
+        "pos": 1,
+        "battr": [
+          5,
+          6
+        ],
+        "wmax": 160,
+        "hmax": 600,
+        "wmin": 0,
+        "hmin": 396,
+        "format": [
+          {
+            "w": 160,
+            "h": 600
+          },
+          {
+            "w": 120,
+            "h": 600
+          }
+        ]
+      },
+      "tagid": "9025667683",
+      "bidfloor": 0.94,
+      "bidfloorcur": "USD",
+      "secure": 1,
+      "metric": [
+        {
+          "type": "click_through_rate",
+          "value": 0.0002869381569325924,
+          "vendor": "EXCHANGE"
+        },
+        {
+          "type": "viewability",
+          "value": 0.89,
+          "vendor": "EXCHANGE"
+        }
+      ],
+      "ext": {
+        "billing_id": [
+          24425835280
+        ],
+        "publisher_settings_list_id": [
+          7520411665714976425,
+          9564893429184338758
+        ],
+        "allowed_vendor_type": [
+          3,
+          42
+        ],
+        "ampad": 3,
+        "allowed_restricted_category": [
+          33
+        ],
+        "creative_enforcement_settings": {
+          "policy_enforcement": 2,
+          "publisher_blocks_enforcement": 1,
+          "is_default": true
+        }
+      }
+    }
+  ],
+  "site": {
+    "page": "https://www.google.com",
+    "publisher": {
+      "id": "pub-1111111111111111",
+      "ext": {
+        "country": "US"
+      }
+    },
+    "content": {
+      "livestream": 0,
+      "language": "en"
+    },
+    "ext": {
+      "amp": 0,
+      "page_visibility": 1
+    }
+  },
+  "device": {
+    "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Blitz/1.15.12 Chrome/91.0.4472.124 Electron/13.1.7 Safari/537.36",
+    "ip": "192.168.1.0",
+    "geo": {
+      "lat": 0.0,
+      "lon": 0.0,
+      "country": "USA",
+      "region": "MD",
+      "metro": "511",
+      "city": "Clarksburg",
+      "zip": "20871"
+    },
+    "os": "Windows",
+    "devicetype": 2,
+    "lmt": 0,
+    "pxratio": 1,
+    "ext": {
+      "user_agent_data": {
+        "browser": {
+          "brand": "Chrome",
+          "version": [
+            "91",
+            "0"
+          ]
+        },
+        "platform": {
+          "brand": "Windows",
+          "version": [
+            "10",
+            "0"
+          ]
+        },
+        "mobile": false
+      }
+    }
+  },
+  "user": {
+    "id": "j4m931PrM00957ri8ak1vssRB17",
+    "buyeruid": "3H5ujvc0fP21LR1j1YN6iwbCwS43zm92",
+    "customdata": "979593fiaRW713CB8k5nnT4SnD3C36171ES10EMda4bLD31D",
+    "ext": {}
+  },
+  "at": 1,
+  "tmax": 162,
+  "cur": [
+    "USD"
+  ],
+  "bcat": [
+    "IAB23-2",
+    "IAB23-3"
+  ],
+  "source": {
+    "ext": {
+      "schain": {
+        "complete": 1,
+        "nodes": [
+          {
+            "asi": "google.com",
+            "sid": "pub-9797776005011040",
+            "hp": 1
+          }
+        ],
+        "ver": "1.0"
+      }
+    }
+  },
+  "ext": {
+    "bid_feedback": [
+      {
+        "request_id": "30J2028s53fTz637goYGX9",
+        "creative_status_code": 80,
+        "buyer_creative_id": "test_creative_id_785487",
+        "minimum_bid_to_win": 3.69
+      }
+    ],
+    "google_query_id": "ANy-z29c21-2pL4U3z32I4h6g5b00E876hH79z2055Fm96g07U218OGWFvw07Y06ekR2n5T6"
+  }
+}
